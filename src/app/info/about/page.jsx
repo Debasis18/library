@@ -3,7 +3,7 @@ import Image from "next/image";
 import Header from "@/components/Header";
 
 export const metadata = {
-  title: "About - NIELIT Tezour Library Management System",
+  title: "About - NIELIT Tezpur Library Management System",
 };
 
 export default async function Page() {
@@ -15,14 +15,14 @@ export default async function Page() {
         {/* Added pt-32 to provide space for the sticky header */}
         <div className="col-span-3">
           <h1 className="text-4xl mb-10 text-accent-400 font-medium">
-            Welcome to NIELIT Tezour Library
+            Welcome to NIELIT Tezpur EC Library
           </h1>
 
           <div className="space-y-8">
             <p>
-              The NIELIT Tezour Library is a center of knowledge and resources,
+              The NIELIT Tezpur Library is a center of knowledge and resources,
               where academic growth meets technological advancement. Located at
-              the heart of NIELIT Tezour, our library offers an extensive
+              the heart of NIELIT Tezpur, our library offers an extensive
               collection of books, research materials, and digital resources
               designed to support learning and research.
             </p>
@@ -34,7 +34,7 @@ export default async function Page() {
             </p>
             <p>
               Whether you're looking for textbooks, journals, or the latest
-              research in your field, NIELIT Tezour Library is here to support
+              research in your field, NIELIT Tezpur Library is here to support
               your academic journey.
             </p>
           </div>
@@ -52,7 +52,7 @@ export default async function Page() {
 
           <div className="space-y-8">
             <p>
-              Since its establishment, the NIELIT Tezour Library has been
+              Since its establishment, the NIELIT Tezpur Library has been
               dedicated to providing comprehensive resources to support
               students, faculty, and researchers. With an ever-expanding digital
               and physical catalog, we aim to foster an environment conducive to

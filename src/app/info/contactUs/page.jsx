@@ -17,10 +17,10 @@ function ContactUs() {
               You can reach us via email at:
             </p>
             <a
-              href="mailto:support@nielittezourlibrary.com"
+              href="mailto:tezpur.nielit@gmail.com"
               className="text-base text-blue-600 hover:text-blue-800 hover:underline transition-colors duration-200"
             >
-              support@nielittezourlibrary.com
+              tezpur.nielit@gmail.com
             </a>
           </div>
 
@@ -29,7 +29,7 @@ function ContactUs() {
             <p className="text-base text-gray-600 mb-2">
               For any inquiries, call us at:
             </p>
-            <p className="text-base text-blue-600">+1 (123) 456-7890</p>
+            <p className="text-base text-blue-600">0​3712-230310</p>
           </div>
 
           <div className="bg-white p-8 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300">
@@ -40,9 +40,9 @@ function ContactUs() {
               Our office is located at:
             </p>
             <p className="text-base text-blue-600">
-              NIELIT Tezpur Library, <br />
-              Tezpur, District 123, <br />
-              Country Name
+              NIELIT Tezpur EC, <br />
+              Near Indian Statistical Institute (ISI), <br />
+              Punioni, Solmara, Tezpur, Assam- 784028
             </p>
           </div>
 
@@ -54,9 +54,8 @@ function ContactUs() {
               We are open during the following hours:
             </p>
             <ul className="list-disc ml-6 text-base text-gray-600">
-              <li>Monday - Friday: 9:00 AM - 6:00 PM</li>
-              <li>Saturday: 10:00 AM - 4:00 PM</li>
-              <li>Sunday: Closed</li>
+              <li>Monday - Friday: 10:00 AM - 5:00 PM</li>
+              <li>Saturday - Sunday: Closed</li>
             </ul>
           </div>
         </div>
